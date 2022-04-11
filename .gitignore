@@ -1,0 +1,65 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+/Library/
+/Assets/AmplifyShaderEditor/Examples
+
+# ===== #
+# Build #
+# ===== #
+/Bin/
+/Release/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon^M^M
+ehthumbs.db
+Thumbs.db
+
+# To allow extending Unity UI custom inspectors
+!UnityVS.SkywardFileBrowser.CSharp.Editor.csproj.user
+/Logs
+Assets/TextMesh Pro
+Assets/Plugins/Shapes
+/Assets/Kenney Character Assets
+/Assets/Shapes
+/Assets/Kenney Assets
+/Assets/AmplifyShaderEditor
+/Assets/PolygonFantasyKingdom
+/Assets/AssimpNet
+/Assets/Ludiq
+/Assets/AllIn1SpriteShader
+/Assets/UMotionEditor
+/Assets/UMotionExamples
+/Assets/PolygonSciFiSpace
+/Assets/EverydayMotionPack
+/Build*
+/UIElementsSchema
+/Packages/com.unity.render-pipelines.core
+/Packages/com.unity.render-pipelines.universal
+/Packages/com.unity.shadergraph
+/UserSettings/Layouts/
+/Debug*
