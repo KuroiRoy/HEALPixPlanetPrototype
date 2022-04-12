@@ -1,5 +1,5 @@
 # HEALPixPlanetPrototype
-Made with Unity 2022.1.14b
+Made with Unity 2022.1.0b14
 
 Proof of concept for projecting square tiles onto a planet using shaders. Based on the article by Red Blob Games https://www.redblobgames.com/x/1932-sphere-healpix/
 
